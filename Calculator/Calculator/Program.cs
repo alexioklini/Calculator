@@ -6,7 +6,7 @@ namespace Calculator
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello 2222World!");
+            Console.WriteLine("Brilliant 1.0");
         }
     }
 }
